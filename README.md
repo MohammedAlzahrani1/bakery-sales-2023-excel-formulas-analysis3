@@ -33,10 +33,10 @@ The data was created for learning purposes.
 ![Revenue Formula](revenue_formula.png.png)
 
 ### Total Quantity by Product
-![Total Quantity by Product](images/total_quantity_by_product.png)
+![Total Quantity by Product](images/total_quantity_by_product.png.png)
 
 ### Total Revenue by Product
-![Total Revenue by Product](images/total_revenue_by_product.png)
+![Total Revenue by Product](images/total_revenue_by_product.png.png)
 
 ## Author
 Mohammed Muteb Alzahrani
