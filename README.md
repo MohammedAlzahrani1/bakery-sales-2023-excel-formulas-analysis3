@@ -30,7 +30,7 @@ The data was created for learning purposes.
 ## Screenshots
 
 ### Revenue Formula
-![Revenue Formula](images/revenue_formula.png)
+![Revenue Formula](revenue_formula.png.png)
 
 ### Total Quantity by Product
 ![Total Quantity by Product](images/total_quantity_by_product.png)
